@@ -1,0 +1,22 @@
+{
+  "name": "weather-change",
+  "version": "1.0.0",
+  "description": "A Weather Forcasting API",
+  "main": "app.js",
+  "scripts": {
+    "test": "test app.js"
+  },
+  "keywords": [
+    "Weather",
+    "Forecasting"
+  ],
+  "author": "Hassan Nadeem Baig",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "axios-proxy-builder": "^0.1.2",
+    "body-parser": "^1.20.0",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.3"
+  }
+}
